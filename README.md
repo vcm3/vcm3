@@ -102,7 +102,7 @@
     </td>
   </tr>
   </table>
-  <table align="left">
+  <table>
 
   <!-- Tools -->
   <tr>
@@ -123,7 +123,7 @@
     </td>
   </tr>
   </table>
-  <table  align="left">
+  <table>
 
   <!-- Testing -->
   <tr>

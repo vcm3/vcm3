@@ -131,7 +131,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://jestjs.io/img/jest.png" width="40" /><br>Jest
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" /><br>Jest
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>JUnit

@@ -29,7 +29,7 @@
 - 🦾 Partidaria de los patrones de diseño y buenas prácticas.
 - 🌱 Especialmente interesada en: optimización de procesos mediante el desarrollo tecnológico, aplicaciones de la IA en el análisis de datos.
 
-<p align="center"><sup><em>“El propósito de la automatización es liberar a las personas del trabajo pesado, no crear nuevas formas del mismo.”</em> — Kurt Vonnegut</sup>
+<p align="center"><sup><em>“El propósito de la automatización es liberar a las personas del trabajo pesado, no crear nuevas formas del mismo.”</em> — Kurt Vonnegut</sup><br>
 <sup><em>“No hay nada tan inútil como hacer de manera eficiente algo que no debería hacerse.”</em> — Peter Drucker</sup></p>
 
 #

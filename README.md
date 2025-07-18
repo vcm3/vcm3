@@ -119,7 +119,7 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br>Postman
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/32292712?s=200&v=4" width="40" /><br>Newman
+      <img src="https://img.informer.com/icons_mac/png/128/546/546189.png" width="40" /><br>Newman
     </td>
   </tr>
   </table>
@@ -131,7 +131,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="40" /><br>Jest
+      <img src="https://jestjs.io/img/jest.png" width="40" /><br>Jest
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>JUnit

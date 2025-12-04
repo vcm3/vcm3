@@ -143,16 +143,20 @@
 </table>
 <br style="clear: both;">
 
-
 <!-- BADGES -->
-<p align="center">
-<sup><b> Actualmente usando: </b></sup>
-<br><sup>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/editor-VSCode-007ACC"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/code-JavaScript-yellow"></a>
-  <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/backend-Node.js-green"></a>
-  <a href="https://www.microsoft.com/es-es/sql-server"><img src="https://img.shields.io/badge/database-SQL_Server-blue"></a>
-</sup></p>
+<div>
+  <div align="center">
+    <sup><b>  Actualmente usando:  </b></sup><br>
+    <sup>
+      <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/editor-VSCode-007ACC"></a>
+      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/code-JavaScript-yellow"></a>
+      <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/backend-Node.js-green"></a>
+      <a href="https://www.microsoft.com/es-es/sql-server"><img src="https://img.shields.io/badge/database-SQL_Server-blue"></a>
+    </sup>
+  </div>
+  <sup><em><div dir="rtl">  Última actualización Jul 18, 2025 
+    </div></em></sup>
+</div>
 &nbsp;
 
 <!--
